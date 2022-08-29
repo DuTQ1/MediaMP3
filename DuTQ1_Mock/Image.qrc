@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Image/icons8-speaker-50.png</file>
+        <file>Image/icons8-play-64.png</file>
+        <file>Image/icons8-pause-64.png</file>
+        <file>Image/icons8-no-audio-50.png</file>
+        <file>Image/icons8-list-64.png</file>
+        <file>Image/icons8-go-to-start-64.png</file>
+        <file>Image/icons8-go-to-end-64.png</file>
+        <file>Image/backgroud.png</file>
+        <file>component/ImageButton.qml</file>
+        <file>component/Slider_X.qml</file>
+        <file>component/Button.qml</file>
+        <file>component/Slider_Y.qml</file>
+        <file>langs/vietnamese.ts</file>
+        <file>langs/english.ts</file>
+        <file>langs/vietnamese.qm</file>
+        <file>langs/english.qm</file>
+        <file>playBackScreen/Screen1.qml</file>
+        <file>playBackScreen/PlayBackControler.qml</file>
+        <file>playBackScreen/Control.qml</file>
+        <file>playBackScreen/PlayList.qml</file>
+        <file>Image/icons8-dvd-64.png</file>
+        <file>Image/icons8-music-record-100.png</file>
+        <file>playBackScreen/Screen3.qml</file>
+        <file>Image/icons8-shuffle-64-on.png</file>
+        <file>Image/icons8-shuffle-64-off.png</file>
+        <file>component/QListview.qml</file>
+        <file>libraryScreen/ScreenLibrary.qml</file>
+        <file>libraryScreen/DisplayAlbum.qml</file>
+        <file>libraryScreen/DisplayListsong.qml</file>
+        <file>libraryScreen/DisplayArtist.qml</file>
+        <file>libraryScreen/ScreenMenu.qml</file>
+        <file>playBackScreen/ScreenPlayBack.qml</file>
+        <file>Image/icons8-sort-alpha-up-32.png</file>
+        <file>Image/icons8-sort-alpha-up-reversed-32.png</file>
+    </qresource>
+</RCC>
